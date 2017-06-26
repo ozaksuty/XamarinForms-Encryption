@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XFAES"
+             x:Class="XFAES.MainPage">
+    <ContentPage.Content>
+        <Grid Padding="15">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Entry Placeholder="Name"
+                   x:Name="txtName"
+                   Grid.Row="0"
+                   Grid.Column="0"/>
+            <Entry Placeholder="Surname" 
+                   x:Name="txtSurname"
+                   Grid.Row="0"
+                   Grid.Column="1"/>
+            <Entry Placeholder="CC Number" 
+                   x:Name="txtNumber"
+                   Keyboard="Numeric"
+                   Grid.Row="1"
+                   Grid.Column="0"
+                   Grid.ColumnSpan="2"/>
+            <Picker Title="Month" x:Name="pckrMonth"
+                   Grid.Row="2"
+                   Grid.Column="0"/>
+            <Picker Title="Year" x:Name="pckrYear"
+                   Grid.Row="2"
+                   Grid.Column="1" />
+            <Entry Placeholder="CVV"
+                   x:Name="txtCvv"
+                   Keyboard="Numeric"
+                   Grid.Row="3"
+                   Grid.Column="0" />
+            <Picker Title="Taksit Sayısı" x:Name="pckrInstallment"
+                   Grid.Row="3"
+                   Grid.Column="1" />
+            <Button Text="Ödemeyi Gerçekleştir"
+                   Grid.Row="4"
+                   Grid.Column="0"
+                   Grid.ColumnSpan="2"
+                   Clicked="Button_Clicked"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

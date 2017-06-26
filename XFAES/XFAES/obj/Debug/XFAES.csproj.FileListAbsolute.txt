@@ -1,0 +1,15 @@
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\bin\Debug\XFAES.dll
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\bin\Debug\XFAES.pdb
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\bin\Debug\Xamarin.Forms.Core.dll
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\bin\Debug\Xamarin.Forms.Platform.dll
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\bin\Debug\Xamarin.Forms.Core.pdb
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\bin\Debug\Xamarin.Forms.Core.xml
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\obj\Debug\XFAES.csprojResolveAssemblyReference.cache
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\obj\Debug\XFAES.MainPage.xaml.g.cs
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\obj\Debug\XFAES.App.xaml.g.cs
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\obj\Debug\XFAES.dll
+c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\obj\Debug\XFAES.pdb
