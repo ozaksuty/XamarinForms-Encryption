@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 	<uses-sdk android:minSdkVersion="15" />
-	<application android:label="XFAES.Android"></application>
+	<application android:label="XFAES.Android">
+    <activity android:name="io.card.payment.CardIOActivity"
+        android:configChanges="keyboardHidden|orientation" />
+    <activity android:name="io.card.payment.DataEntryActivity" />
+  </application>
 </manifest>

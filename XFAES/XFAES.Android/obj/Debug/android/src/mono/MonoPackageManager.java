@@ -99,6 +99,7 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "XFAES.Android.dll" comes first in this list. */
 		"XFAES.Android.dll",
+		"Card.IO.Android.dll",
 		"FormsViewGroup.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Design.dll",

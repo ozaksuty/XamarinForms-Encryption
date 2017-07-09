@@ -1,8 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
-  <ManifestDocuments />
-  <NativeLibraries />
+  <ManifestDocuments>
+    <ManifestDocument>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\AndroidManifest.xml</ManifestDocument>
+  </ManifestDocuments>
+  <NativeLibraries>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\arm64-v8a\libcardioDecider.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\arm64-v8a\libcardioRecognizer.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\arm64-v8a\libcardioRecognizer_tegra2.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\arm64-v8a\libopencv_core.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\arm64-v8a\libopencv_imgproc.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\armeabi\libcardioDecider.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\armeabi-v7a\libcardioDecider.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\armeabi-v7a\libcardioRecognizer.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\armeabi-v7a\libcardioRecognizer_tegra2.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\armeabi-v7a\libopencv_core.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\armeabi-v7a\libopencv_imgproc.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\x86\libcardioDecider.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\x86\libcardioRecognizer.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\x86\libcardioRecognizer_tegra2.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\x86\libopencv_core.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\x86\libopencv_imgproc.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\x86_64\libcardioDecider.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\x86_64\libcardioRecognizer.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\x86_64\libcardioRecognizer_tegra2.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\x86_64\libopencv_core.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\jni\x86_64\libopencv_imgproc.so</NativeLibrary>
+  </NativeLibraries>
   <Jars>
+    <Jar>obj\Debug\__library_projects__\Card.IO.Android\library_project_imports\bin\classes.jar</Jar>
     <Jar>obj\Debug\__library_projects__\FormsViewGroup\library_project_imports\formsviewgroup.jar</Jar>
   </Jars>
 </Paths>

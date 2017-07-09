@@ -4,8 +4,17 @@
   <uses-sdk android:minSdkVersion="15" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.VIBRATE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="XFAES.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <uses-feature android:name="android.hardware.camera" android:required="false" />
+  <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+  <uses-feature android:name="android.hardware.camera.flash" android:required="false" />
+  <application android:label="XFAES.Android" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:name="io.card.payment.CardIOActivity" android:configChanges="keyboardHidden|orientation" />
+    <activity android:name="io.card.payment.DataEntryActivity" />
+    <activity android:label="CreditCardScannerActivity" android:name="md598b3a5596948c6f7ca2ca8b2e3e69a4a.CreditCardScannerActivity" />
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="XFAES" android:theme="@style/MainTheme" android:name="md598b3a5596948c6f7ca2ca8b2e3e69a4a.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -20,5 +29,7 @@
         <category android:name="mono.android.intent.category.SEPPUKU.XFAES.Android" />
       </intent-filter>
     </receiver>
+    <activity android:name="io.card.payment.CardIOActivity" android:configChanges="keyboardHidden|orientation" />
+    <activity android:name="io.card.payment.DataEntryActivity" />
   </application>
 </manifest>

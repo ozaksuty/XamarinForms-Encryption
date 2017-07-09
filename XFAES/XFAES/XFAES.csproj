@@ -40,6 +40,7 @@
     </Compile>
     <Compile Include="CreditCard.cs" />
     <Compile Include="ICreditCardCryptor.cs" />
+    <Compile Include="ICreditCardScanner.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>

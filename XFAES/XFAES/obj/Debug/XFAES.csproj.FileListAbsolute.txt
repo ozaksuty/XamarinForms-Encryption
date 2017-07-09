@@ -13,3 +13,18 @@ c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\obj\Debug
 c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\obj\Debug\XFAES.App.xaml.g.cs
 c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\obj\Debug\XFAES.dll
 c:\Users\Yigit\Documents\Visual Studio 2017\Projects\XFAES\XFAES\XFAES\obj\Debug\XFAES.pdb
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\bin\Debug\XFAES.dll
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\bin\Debug\XFAES.pdb
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\obj\Debug\XFAES.csprojResolveAssemblyReference.cache
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\obj\Debug\XFAES.MainPage.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\obj\Debug\XFAES.App.xaml.g.cs
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\obj\Debug\XFAES.dll
+C:\Users\Yigit\Documents\GitHub\XamarinForms-Encryption\XFAES\XFAES\obj\Debug\XFAES.pdb

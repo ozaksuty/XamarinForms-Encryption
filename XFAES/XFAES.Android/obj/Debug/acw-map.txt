@@ -1,3 +1,7 @@
+XFAES.Droid.CreditCardScannerActivity, XFAES.Android;md598b3a5596948c6f7ca2ca8b2e3e69a4a.CreditCardScannerActivity
+XFAES.Droid.CreditCardScannerActivity, XFAES.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md598b3a5596948c6f7ca2ca8b2e3e69a4a.CreditCardScannerActivity
+XFAES.Droid.CreditCardScannerActivity;md598b3a5596948c6f7ca2ca8b2e3e69a4a.CreditCardScannerActivity
+xfaes.droid.CreditCardScannerActivity;md598b3a5596948c6f7ca2ca8b2e3e69a4a.CreditCardScannerActivity
 XFAES.Droid.MainActivity, XFAES.Android;md598b3a5596948c6f7ca2ca8b2e3e69a4a.MainActivity
 XFAES.Droid.MainActivity, XFAES.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md598b3a5596948c6f7ca2ca8b2e3e69a4a.MainActivity
 XFAES.Droid.MainActivity;md598b3a5596948c6f7ca2ca8b2e3e69a4a.MainActivity

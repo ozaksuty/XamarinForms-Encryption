@@ -3,6 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:XFAES"
              x:Class="XFAES.MainPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Scanner" 
+                     Priority="0" 
+                     Order="Primary"
+                     Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <Grid Padding="15">
             <Grid.RowDefinitions>

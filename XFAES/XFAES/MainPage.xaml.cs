@@ -47,5 +47,14 @@ namespace XFAES
                 ().AESDecryption(Crypto);
 
         }
+
+        private void ToolbarItem_Clicked(object sender, EventArgs e)
+        {
+            MessagingCenter.Subscribe<App, CreditCard>(this, "card", (s, c) => 
+            {
+                txtNumber.Text = c.Number;
+            });
+            DependencyService.Get<ICreditCardScanner>().Scan();
+        }
     }
 }
