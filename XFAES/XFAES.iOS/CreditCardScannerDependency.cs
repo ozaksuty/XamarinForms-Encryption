@@ -12,7 +12,6 @@ namespace XFAES.iOS
         public void Scan()
         {
             var window = UIApplication.SharedApplication.KeyWindow;
-            //window = new UIWindow(UIScreen.MainScreen.Bounds);
             window.RootViewController = new CreditCardViewController();
             window.MakeKeyAndVisible();
         }
